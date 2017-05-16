@@ -1,2 +1,1 @@
-# catalog-ms
-spring-microservice
+# catalog
